@@ -1,10 +1,11 @@
-# Image Gallery - Real API
+# Image Gallery - Real API 📷
 
-A collection of photos and SVG images in one place on a page, so only one shows at a time 📷
+A collection of photos and SVG images in one place on a page, so only one shows at a time.
+You can view and download images at any time and from anywhere.
 
 ## Live Demo
 
-You can view a Live Demo of the project [here](https://algohry.github.io/weather_app/).
+You can view a Live Demo of the project [here](https://algohry.github.io/image_gallery/).
 
 ## Features
 
@@ -17,4 +18,4 @@ You can view a Live Demo of the project [here](https://algohry.github.io/weather
 To run this project locally, clone the repository and open the `index.html` file in your browser:
 
 ```bash
-git clone https://github.com/AlGohry/weather_app.git
+git clone https://github.com/AlGohry/image_gallery.git
